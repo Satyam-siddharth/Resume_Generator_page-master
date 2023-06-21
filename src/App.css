@@ -1,0 +1,30 @@
+.Container{
+ text-align: center;
+  align-items: center;
+  margin: 0 200px 0 200px;
+  /* padding: 50px; */
+
+} 
+.sections-list {
+  border-top: 1px solid #ccc;
+  border-bottom: 1px solid #ccc;
+}
+button{
+  margin-top: 5px;
+  outline: none;
+  cursor: pointer;
+  font-size: 14px;
+  border-radius: 500px;
+  border: 1px solid transparent;
+  letter-spacing: 2px;
+  min-width: 60px;
+  text-transform: uppercase;
+  white-space: normal;
+  /* font-weight: 700; */
+  text-align: center;
+  padding: 12px 14px 14px;
+  color: #fff;
+  background-color: #8A4893;
+  /* height: 48px; */
+
+}
